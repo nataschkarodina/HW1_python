@@ -22,19 +22,19 @@ You should run the skript from terminal on Lunix or MacOS or from cmd on Windows
 ```
 python argeparse_lesson.py 0 0 0 0 0 0
 ```
-# As output you we see: 0
+### As output you we see: 0
 
 ## 2
 ```
 python argeparse_lesson.py 0 0 1 1 0 1
 ```
-# As output you we see: 0.49999999999999983
+### As output you we see: 0.49999999999999983
 
 ## 3
 ```
 python argeparse_lesson.py 10 5 1 21 17 63
 ```
-# As output you we see: 316.99999999999983
+### As output you we see: 316.99999999999983
 
 
 * Hope you liked the skript
