@@ -8,7 +8,12 @@ You will need this skrip in case you want to calculate the area of a triangle an
 
 ### Input
 
-As input you should provide coordinates for all the three points of the triangle
+As input you should provide 6 coordinates (x1 y1 x2 y2 x3 y3) for all the three points of the triangle
+## So it looks like
+```
+python argeparse_lesson.py x1 y1 x2 y2 x3 y3
+```
+
 
 ### Output
 
